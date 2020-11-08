@@ -30,7 +30,6 @@ This repository is a weather forecast app that upon the search of a city gives y
 Project can be viewed at https://bo-stevenson.github.io/weather-dashboard/ 
 
 ![Screenshot](assets/images/screenshot.png)
-![Screenshot](assets/images/screenshot-2.png)
 
 ## Credits
 
